@@ -1,4 +1,4 @@
-# Marriott's Architectures - Loyalty Program
+# Marriott's Architectures - Bonvoy Loyalty Program
 This repo is dedicated to share my cloud architectural designs for Marriot's hotels 
 
 # Cloud Provider: AWS
