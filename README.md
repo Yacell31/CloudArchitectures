@@ -2,7 +2,8 @@
 This repo is dedicated to share my cloud architectural designs for Marriot's hotels 
 
 # Cloud Provider: AWS
-![Marriot Loyalty Program Architecture - AWS](https://github.com/user-attachments/assets/fde8a2e7-e541-4fdf-b3a4-83a73a0693cf)
+![Marriott Cloud Architecture 3 drawio](https://github.com/user-attachments/assets/03b97e78-54e2-4c2c-a49b-fb44b2b10771)
+
 
 
 # Cloud Provider: Multi-Cloud Approach
