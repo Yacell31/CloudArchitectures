@@ -2,8 +2,8 @@
 This repo is dedicated to share my cloud architectural designs for Marriot's hotels 
 
 # Cloud Provider: AWS
-![Marriot Cloud AWS drawio (1)](https://github.com/user-attachments/assets/d6090693-6f38-4c5e-a273-fba57c29aa00)
 
+![Marriot Cloud AWS drawio (2)](https://github.com/user-attachments/assets/fa70a050-94a6-4379-b1da-4175f80d8f3b)
 
 
 
